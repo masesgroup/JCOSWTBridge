@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" exported="true" sourcepath="../bin/src.zip"  path="../bin/swt.jar">
+		<attributes>
+			<attribute value="http://help.eclipse.org/stable/nftopic/org.eclipse.platform.doc.isv/reference/api/" name="javadoc_location"/>
+			<attribute value="org.eclipse.swt" name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="../bin/JCOBridge.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/../bin/JCOBridge.docs.jar"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path=""/>
+</classpath>

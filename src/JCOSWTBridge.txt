@@ -1,0 +1,4 @@
+Company: MASES s.r.l.
+Copyright: (c) 2020 MASES s.r.l. 
+Name: JCOSWTBridge
+Sealed: true
