@@ -6,3 +6,5 @@ To build from scratch:
 - download the required libraries descibed into [bin](/bin)
 - download the JDK and put it into JDK folder as described in [JDK folder](/jdk)
 - run the script CreateJar.bat
+
+This project adheres to the Contributor [Covenant code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to coc_reporting@masesgroup.com.
